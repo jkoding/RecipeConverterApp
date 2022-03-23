@@ -2,7 +2,7 @@ Welcome to the RecipeConverterApp!
 
 This is a simple commandline tool that can be used to convert from one unit of measurement to another.
 
-						Units of Measurement
+Units of Measurement
  _______________________________________________________________________
 | milliliter  - mL    | liter - L | teaspoon - tsp  | tablespoon - Tbsp |
 | fluid ounce - fl.oz | cup   - c | pint     - pt   | quart      - qt   | 
